@@ -1,0 +1,49 @@
+.encabezado
+{
+    background-color: #082032;
+    padding-top: 3em;
+    padding-bottom: 0.5em;
+    border-bottom: 0.5em solid #FF4C29;
+}
+
+h1
+{
+    color: white;
+    font-size: 3em;
+}
+
+.body
+{
+    padding-top: 1em;
+}
+
+h2
+{
+    margin-top: 0.8em;
+    margin-bottom: 0.5em;
+}
+
+thead td
+{
+    font-weight: bold;
+}
+
+.color1
+{
+    background-color: tomato;
+}
+
+.color2
+{
+    background-color: blue
+}
+
+.color3
+{
+    background-color: aqua
+}
+
+.color4
+{
+    background-color: darkgoldenrod
+}
